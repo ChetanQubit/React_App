@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Visit Our Website
+         Visit Our class Website
         </a>
       </header>
     </div>
